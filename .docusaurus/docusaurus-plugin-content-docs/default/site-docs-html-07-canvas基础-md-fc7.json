@@ -1,0 +1,21 @@
+{
+  "unversionedId": "html/07Canvas基础",
+  "id": "html/07Canvas基础",
+  "isDocsHomePage": false,
+  "title": "Canvas基础",
+  "description": "HTML5中引入`标签，用于图形的绘制，为图形的绘制提供了画布，是图形容器，具体的图形绘制由JavaScript`来完成。",
+  "source": "@site/docs/html/07Canvas基础.md",
+  "sourceDirName": "html",
+  "slug": "/html/07Canvas基础",
+  "permalink": "/docs/html/07Canvas基础",
+  "editUrl": "https://github.com/JACK-ZHANG-coming/my-now-blog/blob/main/docs/html/07Canvas基础.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "sidebar_label": "Canvas基础",
+  "frontMatter": {
+    "id": "07Canvas基础",
+    "title": "Canvas基础",
+    "sidebar_label": "Canvas基础"
+  }
+}

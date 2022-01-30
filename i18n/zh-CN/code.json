@@ -3,20 +3,16 @@
     "message": "Hello! 我是",
     "description": "hero greet"
   },
-  "文涛": {
-    "message": "文涛",
+  "潜心专研的小张同学": {
+    "message": "潜心专研的小张同学",
     "description": "my name"
   },
   "homepage.qqgroup1": {
-    "message": "QQ 1 群：644722908",
+    "message": "QQ 1 群：706947563",
     "description": "qq group1"
   },
-  "homepage.qqgroup2": {
-    "message": "QQ 2 群：1004912565",
-    "description": "qq group2"
-  },
   "homepage.follow.link.href": {
-    "message": "https://space.bilibili.com/302954484?from=search&seid=1788147379248960737",
+    "message": "https://space.bilibili.com/299974236",
     "description": "social link bilibili or twitter"
   },
   "去B站关注": {
@@ -40,7 +36,7 @@
     "description": "blog page estimated time label"
   },
   "阅读原文": {
-    "message": "阅读全文",
+    "message": "阅读原文",
     "description": "read full text"
   },
   "blogtagpage.title": {
@@ -72,7 +68,7 @@
     "description": "The first paragraph of the 404 page"
   },
   "theme.NotFound.p2": {
-    "message": "或者可能是个 Bug，可以在 Bilibili@文涛前端工程师、QQ 群里私信告知我~!",
+    "message": "或者可能是个 Bug，可以在 Bilibili@潜心专研的小张同学、QQ 群里私信告知我~!",
     "description": "The 2nd paragraph of the 404 page"
   },
   "theme.AnnouncementBar.closeButtonAriaLabel": {
@@ -256,15 +252,15 @@
     "description": "The ARIA label and placeholder for search button"
   },
   "hompage.hero.text.bilibili": {
-    "message": "技术视频教程、",
+    "message": "B站视频配套文本、",
     "description": "Bilibili docs link label"
   },
   "homepage.hero.text": {
-    "message": "点击查看最新{bilibiliText}{courses}{blogs}{links}以及UP主的{ideas}。致力于帮助你以最直观、最快速的方式学会前端开发，并希望我的个人经历对你有所启发。",
+    "message": "在这里，有{blogs}以及UP主的想法和生活点滴。授人以鱼不如授人以渔，分享个人所学所见，在你学习前端开发的路上助你一臂之力！",
     "description": "hero text"
   },
   "hompage.hero.text.course": {
-    "message": "实战课程、",
+    "message": "系统课程、",
     "description": "Course link label"
   },
   "hompage.hero.text.blog": {

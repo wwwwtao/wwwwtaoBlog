@@ -1,0 +1,21 @@
+{
+  "unversionedId": "html/18Shadow DOM的理解",
+  "id": "html/18Shadow DOM的理解",
+  "isDocsHomePage": false,
+  "title": "Shadow DOM的理解",
+  "description": "Shadow DOM是HTML的一个规范，其允许在文档document渲染时插入一颗DOM元素子树，但是这棵子树不在主DOM树中，Shadow DOM如果按照英文翻译的话可以翻译为影子DOM，是一种不属于主DOM树的独立的结构。",
+  "source": "@site/docs/html/18Shadow DOM的理解.md",
+  "sourceDirName": "html",
+  "slug": "/html/18Shadow DOM的理解",
+  "permalink": "/docs/html/18Shadow DOM的理解",
+  "editUrl": "https://github.com/JACK-ZHANG-coming/my-now-blog/blob/main/docs/html/18Shadow DOM的理解.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "sidebar_label": "Shadow DOM的理解",
+  "frontMatter": {
+    "id": "18Shadow DOM的理解",
+    "title": "Shadow DOM的理解",
+    "sidebar_label": "Shadow DOM的理解"
+  }
+}

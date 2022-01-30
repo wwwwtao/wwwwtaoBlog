@@ -5,7 +5,7 @@
   },
   "link.item.label.GitHub": {
     "message": "GitHub",
-    "description": "The label of footer link with label=GitHub linking to https://github.com/zxuqian/zxuqian.cn"
+    "description": "The label of footer link with label=GitHub linking to https://github.com/JACK-ZHANG-coming"
   },
   "link.item.label.Bilibili 哔哩哔哩": {
     "message": "Bilibili",
@@ -28,7 +28,7 @@
     "description": "The label of footer link with label=lookroot的个人空间 linking to https://www.lookroot.cn/"
   },
   "copyright": {
-    "message": "Copyright © 2021 Xuqian Zhang Built with Docusaurus.<p></p>",
+    "message": "Copyright © 2021 Jack Zhang Built with Docusaurus.<p></p>",
     "description": "The footer copyright"
   },
   "link.title.学习": {
@@ -41,18 +41,18 @@
   },
   "link.item.label.React 即时通信 UI 开发实战": {
     "message": "React IM Course",
-    "description": "The label of footer link with label=React 即时通信 UI 开发实战 linking to docs/course/react-chat-ui"
+    "description": "The label of footer link with label=React 即时通信 UI 开发实战 linking to docs/course/react-chat-ui/react-chat-ui"
   },
   "link.item.label.B 站配套文本": {
     "message": "Videos",
-    "description": "The label of footer link with label=B 站配套文本 linking to docs/videos"
+    "description": "The label of footer link with label=B 站配套文本 linking to docs/videos/videos-intro"
   },
   "link.item.label.CSS 教程": {
     "message": "CSS Tutorial",
-    "description": "The label of footer link with label=CSS 教程 linking to docs/docs/css/css-tutorial-intro"
+    "description": "The label of footer link with label=CSS 教程 linking to docs/css/box-model/box-model"
   },
   "link.item.label.资源导航": {
     "message": "Resources",
-    "description": "The label of footer link with label=资源导航 linking to docs/resources"
+    "description": "The label of footer link with label=资源导航 linking to docs/resources/resources-intro"
   }
 }

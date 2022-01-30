@@ -1,0 +1,16 @@
+{
+  "unversionedId": "Webpack4.0/bundler/node_modules/@babel/helper-hoist-variables/README",
+  "id": "Webpack4.0/bundler/node_modules/@babel/helper-hoist-variables/README",
+  "isDocsHomePage": false,
+  "title": "@babel/helper-hoist-variables",
+  "description": "Helper function to hoist variables",
+  "source": "@site/docs/Webpack4.0/bundler/node_modules/@babel/helper-hoist-variables/README.md",
+  "sourceDirName": "Webpack4.0/bundler/node_modules/@babel/helper-hoist-variables",
+  "slug": "/Webpack4.0/bundler/node_modules/@babel/helper-hoist-variables/README",
+  "permalink": "/docs/Webpack4.0/bundler/node_modules/@babel/helper-hoist-variables/README",
+  "editUrl": "https://github.com/JACK-ZHANG-coming/my-now-blog/blob/main/docs/Webpack4.0/bundler/node_modules/@babel/helper-hoist-variables/README.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "frontMatter": {}
+}

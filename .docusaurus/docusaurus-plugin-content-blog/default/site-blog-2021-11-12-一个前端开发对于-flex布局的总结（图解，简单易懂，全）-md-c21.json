@@ -1,0 +1,24 @@
+{
+  "permalink": "/一个前端开发对于Flex布局的总结（图解，简单易懂，全）",
+  "source": "@site/blog/2021-11-12-一个前端开发对于Flex布局的总结（图解，简单易懂，全）.md",
+  "title": "一个前端开发对于Flex布局的总结（图解，简单易懂，全）",
+  "description": "自适应布局的前缀基础。",
+  "date": "2021-11-12T00:00:00.000Z",
+  "formattedDate": "2021年11月12日",
+  "tags": [
+    {
+      "label": "css",
+      "permalink": "/tags/css"
+    },
+    {
+      "label": "FlexBox",
+      "permalink": "/tags/flex-box"
+    }
+  ],
+  "readingTime": 2.16,
+  "truncated": true,
+  "nextItem": {
+    "title": "一个初级前端结合css、div谈一谈屏幕尺寸、分辨率、缩放概念",
+    "permalink": "/一个初级前端结合css、div谈一谈屏幕尺寸、分辨率、缩放概念"
+  }
+}

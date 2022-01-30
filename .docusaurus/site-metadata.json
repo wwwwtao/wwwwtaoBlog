@@ -1,36 +1,36 @@
 {
-  "docusaurusVersion": "2.0.0-beta.3",
+  "docusaurusVersion": "2.0.0-alpha.75",
   "siteVersion": "0.0.1",
   "pluginVersions": {
     "docusaurus-plugin-content-docs": {
       "type": "package",
       "name": "@docusaurus/plugin-content-docs",
-      "version": "2.0.0-beta.3"
+      "version": "2.0.0-alpha.75"
     },
     "docusaurus-plugin-content-blog": {
       "type": "package",
       "name": "@docusaurus/plugin-content-blog",
-      "version": "2.0.0-beta.3"
+      "version": "2.0.0-alpha.75"
     },
     "docusaurus-plugin-content-pages": {
       "type": "package",
       "name": "@docusaurus/plugin-content-pages",
-      "version": "2.0.0-beta.3"
+      "version": "2.0.0-alpha.75"
     },
     "docusaurus-plugin-debug": {
       "type": "package",
       "name": "@docusaurus/plugin-debug",
-      "version": "2.0.0-beta.3"
+      "version": "2.0.0-alpha.75"
     },
     "docusaurus-theme-classic": {
       "type": "package",
       "name": "@docusaurus/theme-classic",
-      "version": "2.0.0-beta.3"
+      "version": "2.0.0-alpha.75"
     },
     "docusaurus-theme-search-algolia": {
       "type": "package",
       "name": "@docusaurus/theme-search-algolia",
-      "version": "2.0.0-beta.3"
+      "version": "2.0.0-alpha.75"
     },
     "docusaurus-baidu-analytics-plugin": {
       "type": "project"
@@ -42,9 +42,6 @@
       "type": "project"
     },
     "plugin-onesignal-push": {
-      "type": "project"
-    },
-    "docusaurus-latest-docs-plugin": {
       "type": "project"
     },
     "docusaurus2-dotenv": {

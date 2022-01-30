@@ -18,11 +18,10 @@
     "index": "docker run -it --env-file=.env -e \"CONFIG=$(cat docsearch.json | jq -r tostring)\" algolia/docsearch-scraper"
   },
   "dependencies": {
-    "@docusaurus/core": "^2.0.0-beta.3",
-    "@docusaurus/plugin-debug": "^2.0.0-beta.3",
-    "@docusaurus/plugin-ideal-image": "^2.0.0-beta.3",
-    "@docusaurus/preset-classic": "^2.0.0-beta.3",
-    "@docusaurus/theme-live-codeblock": "^2.0.0-beta.3",
+    "@docusaurus/core": "^2.0.0-alpha.75",
+    "@docusaurus/plugin-ideal-image": "^2.0.0-alpha.75",
+    "@docusaurus/preset-classic": "^2.0.0-alpha.75",
+    "@docusaurus/theme-live-codeblock": "^2.0.0-alpha.75",
     "@fortawesome/fontawesome-svg-core": "^1.2.30",
     "@fortawesome/free-brands-svg-icons": "^5.14.0",
     "@fortawesome/free-regular-svg-icons": "^5.14.0",
@@ -39,10 +38,7 @@
     "react-transition-group": "^4.4.1",
     "rehype-katex": "^4.0.0",
     "remark-math": "^3.0.1",
-    "styled-components": "^5.0.1",
-    "unist-util-find": "^1.0.2",
-    "unist-util-find-after": "^4.0.0",
-    "unist-util-select": "^4.0.0"
+    "styled-components": "^5.0.1"
   },
   "browserslist": {
     "production": [

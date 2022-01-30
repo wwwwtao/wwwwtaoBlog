@@ -1,0 +1,16 @@
+{
+  "unversionedId": "Webpack4.0/bundler/node_modules/globals/readme",
+  "id": "Webpack4.0/bundler/node_modules/globals/readme",
+  "isDocsHomePage": false,
+  "title": "globals [![Build Status](https://travis-ci.org/sindresorhus/globals.svg?branch=master)](https://travis-ci.org/sindresorhus/globals)",
+  "description": "Global identifiers from different JavaScript environments",
+  "source": "@site/docs/Webpack4.0/bundler/node_modules/globals/readme.md",
+  "sourceDirName": "Webpack4.0/bundler/node_modules/globals",
+  "slug": "/Webpack4.0/bundler/node_modules/globals/readme",
+  "permalink": "/docs/Webpack4.0/bundler/node_modules/globals/readme",
+  "editUrl": "https://github.com/JACK-ZHANG-coming/my-now-blog/blob/main/docs/Webpack4.0/bundler/node_modules/globals/readme.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "frontMatter": {}
+}

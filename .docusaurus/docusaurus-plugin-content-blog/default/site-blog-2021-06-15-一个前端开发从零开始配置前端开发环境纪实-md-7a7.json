@@ -1,0 +1,28 @@
+{
+  "permalink": "/一个前端开发从零开始配置前端开发环境纪实",
+  "source": "@site/blog/2021-06-15-一个前端开发从零开始配置前端开发环境纪实.md",
+  "title": "一个前端开发从零开始配置前端开发环境纪实",
+  "description": "请输入描述",
+  "date": "2021-06-15T00:00:00.000Z",
+  "formattedDate": "2021年6月15日",
+  "tags": [
+    {
+      "label": "前端环境配置",
+      "permalink": "/tags/前端环境配置"
+    },
+    {
+      "label": "个人记录",
+      "permalink": "/tags/个人记录"
+    }
+  ],
+  "readingTime": 0.64,
+  "truncated": true,
+  "prevItem": {
+    "title": "回炉重造，css常规布局系统整理——实战开发后复盘小结",
+    "permalink": "/回炉重造，css常规布局系统整理——实战开发后复盘小结"
+  },
+  "nextItem": {
+    "title": "使用react+docusaurus快速搭建一个博客网站",
+    "permalink": "/使用react+docusaurus快速搭建一个博客网站"
+  }
+}

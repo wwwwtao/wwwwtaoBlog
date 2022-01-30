@@ -1,0 +1,28 @@
+{
+  "permalink": "/react子父组件互相通信传值",
+  "source": "@site/blog/2021-08-02react子父组件互相通信传值.md",
+  "title": "react子父组件互相通信传值",
+  "description": "react子父组件互相通行，意在融会贯通。",
+  "date": "2021-08-02T00:00:00.000Z",
+  "formattedDate": "2021年8月2日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "react",
+      "permalink": "/tags/react"
+    }
+  ],
+  "readingTime": 0.425,
+  "truncated": true,
+  "prevItem": {
+    "title": "一个初级前端结合css、div谈一谈屏幕尺寸、分辨率、缩放概念",
+    "permalink": "/一个初级前端结合css、div谈一谈屏幕尺寸、分辨率、缩放概念"
+  },
+  "nextItem": {
+    "title": "回炉重造，css常规布局系统整理——实战开发后复盘小结",
+    "permalink": "/回炉重造，css常规布局系统整理——实战开发后复盘小结"
+  }
+}

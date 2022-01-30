@@ -1,0 +1,21 @@
+### 渲染过程
+
+1. 模板编译成 render 函数（开发环境下完成）
+
+2. 触发响应式 监听 data 中各属性
+
+3. 执行 render 函数，生成 vnode，patch(elem,vnode) 渲染视图 （此时在 getter 中已被订阅者监听）
+
+### 更新过程
+
+1. 修改 data。触发 setter（此前在 getter 中已被订阅者监听的属性）
+
+2. 重新执行 render 函数，生成 newVnode
+
+3. patch(vnode,newVnode) 更新视图
+
+#### 完成流程图
+
+![img](https://raw.githubusercontent.com/wwwwtao/Notes/master/Vue%20手册/Vue使用与原理/Vue原理/img/组件更新渲染流程图.png)
+
+#### vue 组件是异步渲染的

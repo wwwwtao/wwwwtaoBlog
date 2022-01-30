@@ -1,0 +1,21 @@
+{
+  "unversionedId": "html/13可替换元素和非替换元素",
+  "id": "html/13可替换元素和非替换元素",
+  "isDocsHomePage": false,
+  "title": "可替换元素和非替换元素",
+  "description": "可替换元素replaced element也称作可置换元素，其展现效果不是由CSS来控制的，这些元素是一种外部对象，它们外观的渲染，是独立于CSS的。非置换元素non-replaced element也称作非替换元素，其内容由CSS渲染直接表现给客户端。",
+  "source": "@site/docs/html/13可替换元素和非替换元素.md",
+  "sourceDirName": "html",
+  "slug": "/html/13可替换元素和非替换元素",
+  "permalink": "/docs/html/13可替换元素和非替换元素",
+  "editUrl": "https://github.com/JACK-ZHANG-coming/my-now-blog/blob/main/docs/html/13可替换元素和非替换元素.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "sidebar_label": "可替换元素和非替换元素",
+  "frontMatter": {
+    "id": "13可替换元素和非替换元素",
+    "title": "可替换元素和非替换元素",
+    "sidebar_label": "可替换元素和非替换元素"
+  }
+}

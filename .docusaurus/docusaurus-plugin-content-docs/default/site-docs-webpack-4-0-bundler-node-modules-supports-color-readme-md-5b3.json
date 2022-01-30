@@ -1,0 +1,16 @@
+{
+  "unversionedId": "Webpack4.0/bundler/node_modules/supports-color/readme",
+  "id": "Webpack4.0/bundler/node_modules/supports-color/readme",
+  "isDocsHomePage": false,
+  "title": "supports-color [![Build Status](https://travis-ci.org/chalk/supports-color.svg?branch=master)](https://travis-ci.org/chalk/supports-color)",
+  "description": "Detect whether a terminal supports color",
+  "source": "@site/docs/Webpack4.0/bundler/node_modules/supports-color/readme.md",
+  "sourceDirName": "Webpack4.0/bundler/node_modules/supports-color",
+  "slug": "/Webpack4.0/bundler/node_modules/supports-color/readme",
+  "permalink": "/docs/Webpack4.0/bundler/node_modules/supports-color/readme",
+  "editUrl": "https://github.com/JACK-ZHANG-coming/my-now-blog/blob/main/docs/Webpack4.0/bundler/node_modules/supports-color/readme.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "frontMatter": {}
+}

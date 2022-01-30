@@ -1,0 +1,21 @@
+{
+  "unversionedId": "html/14HTML与XHTML区别",
+  "id": "html/14HTML与XHTML区别",
+  "isDocsHomePage": false,
+  "title": "HTML与XHTML区别",
+  "description": "HTML称为超文本标记语言Hyper Text Markup Language，是一种标识性的语言。XHTML称为扩展超文本标记语言Extensible HyperText Markup Language，同样是一种标识性的语言，表现方式与HTML类似，不过语法上更加严格。从关系上讲，HTML是基于标准通用标记语言SGML的应用，XML是SGML的一个子集，而XHTML则基于XML。",
+  "source": "@site/docs/html/14HTML与XHTML区别.md",
+  "sourceDirName": "html",
+  "slug": "/html/14HTML与XHTML区别",
+  "permalink": "/docs/html/14HTML与XHTML区别",
+  "editUrl": "https://github.com/JACK-ZHANG-coming/my-now-blog/blob/main/docs/html/14HTML与XHTML区别.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "sidebar_label": "HTML与XHTML区别",
+  "frontMatter": {
+    "id": "14HTML与XHTML区别",
+    "title": "HTML与XHTML区别",
+    "sidebar_label": "HTML与XHTML区别"
+  }
+}

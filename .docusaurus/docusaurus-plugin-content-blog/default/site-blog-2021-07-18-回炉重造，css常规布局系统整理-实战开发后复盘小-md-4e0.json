@@ -1,0 +1,28 @@
+{
+  "permalink": "/回炉重造，css常规布局系统整理——实战开发后复盘小结",
+  "source": "@site/blog/2021-07-18-回炉重造，css常规布局系统整理——实战开发后复盘小.md",
+  "title": "回炉重造，css常规布局系统整理——实战开发后复盘小结",
+  "description": "本文意在系统总结常用的css布局，以达到融会贯通之功效。",
+  "date": "2021-07-18T00:00:00.000Z",
+  "formattedDate": "2021年7月18日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "css",
+      "permalink": "/tags/css"
+    }
+  ],
+  "readingTime": 3.905,
+  "truncated": true,
+  "prevItem": {
+    "title": "react子父组件互相通信传值",
+    "permalink": "/react子父组件互相通信传值"
+  },
+  "nextItem": {
+    "title": "一个前端开发从零开始配置前端开发环境纪实",
+    "permalink": "/一个前端开发从零开始配置前端开发环境纪实"
+  }
+}

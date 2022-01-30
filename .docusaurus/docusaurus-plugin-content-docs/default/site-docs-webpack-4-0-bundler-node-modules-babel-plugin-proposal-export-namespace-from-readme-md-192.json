@@ -1,0 +1,16 @@
+{
+  "unversionedId": "Webpack4.0/bundler/node_modules/@babel/plugin-proposal-export-namespace-from/README",
+  "id": "Webpack4.0/bundler/node_modules/@babel/plugin-proposal-export-namespace-from/README",
+  "isDocsHomePage": false,
+  "title": "@babel/plugin-proposal-export-namespace-from",
+  "description": "Compile export namespace to ES2015",
+  "source": "@site/docs/Webpack4.0/bundler/node_modules/@babel/plugin-proposal-export-namespace-from/README.md",
+  "sourceDirName": "Webpack4.0/bundler/node_modules/@babel/plugin-proposal-export-namespace-from",
+  "slug": "/Webpack4.0/bundler/node_modules/@babel/plugin-proposal-export-namespace-from/README",
+  "permalink": "/docs/Webpack4.0/bundler/node_modules/@babel/plugin-proposal-export-namespace-from/README",
+  "editUrl": "https://github.com/JACK-ZHANG-coming/my-now-blog/blob/main/docs/Webpack4.0/bundler/node_modules/@babel/plugin-proposal-export-namespace-from/README.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "frontMatter": {}
+}

@@ -1,0 +1,16 @@
+{
+  "unversionedId": "Webpack4.0/bundler/node_modules/convert-source-map/README",
+  "id": "Webpack4.0/bundler/node_modules/convert-source-map/README",
+  "isDocsHomePage": false,
+  "title": "convert-source-map [![build status](https://secure.travis-ci.org/thlorenz/convert-source-map.svg?branch=master)](http://travis-ci.org/thlorenz/convert-source-map)",
+  "description": "Converts a source-map from/to  different formats and allows adding/changing properties.",
+  "source": "@site/docs/Webpack4.0/bundler/node_modules/convert-source-map/README.md",
+  "sourceDirName": "Webpack4.0/bundler/node_modules/convert-source-map",
+  "slug": "/Webpack4.0/bundler/node_modules/convert-source-map/README",
+  "permalink": "/docs/Webpack4.0/bundler/node_modules/convert-source-map/README",
+  "editUrl": "https://github.com/JACK-ZHANG-coming/my-now-blog/blob/main/docs/Webpack4.0/bundler/node_modules/convert-source-map/README.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "frontMatter": {}
+}

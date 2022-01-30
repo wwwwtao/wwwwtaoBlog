@@ -1,0 +1,16 @@
+{
+  "unversionedId": "Webpack4.0/bundler/node_modules/ansi-regex/readme",
+  "id": "Webpack4.0/bundler/node_modules/ansi-regex/readme",
+  "isDocsHomePage": false,
+  "title": "ansi-regex [![Build Status](https://travis-ci.org/chalk/ansi-regex.svg?branch=master)](https://travis-ci.org/chalk/ansi-regex)",
+  "description": "Regular expression for matching ANSI escape codes",
+  "source": "@site/docs/Webpack4.0/bundler/node_modules/ansi-regex/readme.md",
+  "sourceDirName": "Webpack4.0/bundler/node_modules/ansi-regex",
+  "slug": "/Webpack4.0/bundler/node_modules/ansi-regex/readme",
+  "permalink": "/docs/Webpack4.0/bundler/node_modules/ansi-regex/readme",
+  "editUrl": "https://github.com/JACK-ZHANG-coming/my-now-blog/blob/main/docs/Webpack4.0/bundler/node_modules/ansi-regex/readme.md",
+  "version": "current",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "2018/10/14",
+  "frontMatter": {}
+}

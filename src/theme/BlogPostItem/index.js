@@ -28,7 +28,6 @@ import BrowserOnly from "@docusaurus/BrowserOnly";
 import Comments from "@site/src/components/Comments";
 import Ad from "@site/src/components/Ad";
 import adConfig from "@site/src/components/Ad/config";
-import Adsense from "@site/src/components/Adsense";
 
 import Translate from "@docusaurus/Translate";
 
@@ -57,7 +56,6 @@ function BlogPostItem(props) {
     views,
   } = props;
   const { date, permalink, tags, readingTime } = metadata;
-
   // activityId, oid 为 B 站评论相关
   const {
     slug: postId,
@@ -223,12 +221,9 @@ function BlogPostItem(props) {
             )}
             {/* 标签 */}
             {isBlogPostPage && (
-              <>
-                <div className="text--center margin-bottom--xs padding-bottom--xs">
-                  {renderTags()}
-                </div>
-                <Adsense responsive="true" format="auto" slot="2800800187" />
-              </>
+              <div className="text--center margin-bottom--xs padding-bottom--xs">
+                {renderTags()}
+              </div>
             )}
 
             {/* 正文 */}
@@ -246,16 +241,12 @@ function BlogPostItem(props) {
                 ))}
               </div>
             )} */}
-            {isBlogPostPage && (
-              <Adsense responsive="true" format="auto" slot="4590671808" />
-            )}
           </article>
           <footer className="article__footer padding-top--md margin-top--lg margin-bottom--lg">
             {!isBlogPostPage && (
               <span className="footer__read_count">
                 <Eye
-                  // color={isDarkTheme ? "#76baff" : "#006dfe"}
-                  className="footer__eye"
+                  color={isDarkTheme ? "#76baff" : "#006dfe"}
                   style={{ verticalAlign: "middle" }}
                 />{" "}
                 {views}
@@ -264,7 +255,7 @@ function BlogPostItem(props) {
             {truncated && (
               <Link to={metadata.permalink} aria-label={`阅读 ${title} 的全文`}>
                 <strong className={styles.readMore}>
-                  <Translate description="read full text">阅读全文</Translate>
+                  <Translate description="read full text">阅读原文</Translate>
                 </strong>
               </Link>
             )}

@@ -1,77 +1,31 @@
 export default {
-  "title": "文涛前端工程师",
+  "title": "wwwwtao是个前端",
   "titleDelimiter": "-",
-  "url": "https://zxuqian.cn",
+  "url": "https://zhangqiang.vercel.app",
   "baseUrl": "/",
-  "favicon": "img/favicon.ico",
-  "organizationName": "zxuqian",
-  "projectName": "zxuqian.cn",
+  "favicon": "https://avatars.githubusercontent.com/u/44993003?s=400&u=02570a73330dd7eeae310b302962c034b2833988&v=4",
+  "organizationName": "zhangqiang",
+  "projectName": "zhangqiang.vercel.app",
   "themeConfig": {
-    "image": "img/fenghua.jpg",
-    "announcementBar": {
-      "id": "feature_release",
-      "content": "更新<a href='/docs/videos/browser/js-web-animations-api'>《与 CSS Keyframes 媲美的原生 JS 高性能动画 API 教程》配套文本</a>",
-      "backgroundColor": "#fafbfc",
-      "textColor": "#091E42",
-      "isCloseable": true
-    },
     "hideableSidebar": true,
     "navbar": {
-      "title": "文涛",
+      "title": "潜心专研的小张同学",
       "logo": {
-        "alt": "文涛",
-        "src": "img/logo.webp",
-        "srcDark": "img/logo.webp"
+        "alt": "wwwwtao是个前端",
+        "src": "https://avatars.githubusercontent.com/u/44993003?s=400&u=02570a73330dd7eeae310b302962c034b2833988&v=4",
+        "srcDark": "https://avatars.githubusercontent.com/u/44993003?s=400&u=02570a73330dd7eeae310b302962c034b2833988&v=4"
       },
       "items": [
         {
-          "to": "/",
-          "label": "首页",
-          "position": "right",
-          "items": [
-            {
-              "label": "随笔",
-              "to": "lifestyle"
-            }
-          ]
+          "type": "localeDropdown",
+          "position": "left",
+          "dropdownItemsBefore": [],
+          "dropdownItemsAfter": []
         },
         {
-          "label": "学习",
-          "position": "right",
-          "items": [
-            {
-              "label": "技术视频",
-              "to": "docs/videos/"
-            },
-            {
-              "label": "CSS 完全指南",
-              "to": "docs/css/css-tutorial-intro"
-            },
-            {
-              "label": "资源导航",
-              "to": "docs/resources/"
-            }
-          ]
-        },
-        {
-          "label": "课程",
-          "position": "right",
-          "items": [
-            {
-              "label": "React 即时通信 UI 开发实战",
-              "to": "docs/course/react-chat-ui"
-            }
-          ]
-        },
-        {
-          "label": "小工具",
-          "position": "right",
-          "to": "docs/tools/"
-        },
-        {
-          "href": "https://github.com/zxuqian/zxuqian.cn",
-          "label": "本站源码",
-          "position": "right"
+          "to": "docs/all-intro",
+          "label": "专属学习笔记",
+          "position": "left"
         }
       ],
       "hideOnScroll": false
@@ -80,7 +34,7 @@ export default {
       "apiKey": "fabfb0e9997e101154ed85d64b7b6a3c",
       "indexName": "ZXUQIANCN",
       "appId": "LIJMO3C9C4",
-      "contextualSearch": false,
+      "contextualSearch": true,
       "searchParameters": {}
     },
     "footer": {
@@ -90,20 +44,20 @@ export default {
           "title": "学习",
           "items": [
             {
-              "label": "React 即时通信 UI 开发实战",
-              "to": "docs/course/react-chat-ui"
+              "label": "w3school 在线教程",
+              "to": "https://www.w3school.com.cn/index.html"
             },
             {
-              "label": "技术视频",
-              "to": "docs/videos"
+              "label": "JavaScript | MDN",
+              "to": "https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Math/random"
             },
             {
-              "label": "CSS 完全指南",
-              "to": "docs/css/css-tutorial-intro"
+              "label": "前端学习路线",
+              "to": "https://objtube.gitee.io/front-end-roadmap/#/"
             },
             {
-              "label": "资源导航",
-              "to": "docs/resources"
+              "label": "使用 State Hook – React",
+              "to": "https://zh-hans.reactjs.org/docs/hooks-state.html#gatsby-focus-wrapper"
             }
           ]
         },
@@ -112,19 +66,7 @@ export default {
           "items": [
             {
               "label": "GitHub",
-              "href": "https://github.com/zxuqian/zxuqian.cn"
-            },
-            {
-              "label": "Bilibili 哔哩哔哩",
-              "href": "https://space.bilibili.com/302954484"
-            },
-            {
-              "label": "网易云课堂",
-              "href": "https://study.163.com/course/courseMain.htm?courseId=1210022809&share=2&shareId=480000002172128"
-            },
-            {
-              "label": "腾讯课堂",
-              "href": "https://ke.qq.com/course/2839093?tuin=3850fdc6"
+              "href": "https://github.com/JACK-ZHANG-coming"
             }
           ]
         },
@@ -140,13 +82,13 @@ export default {
               "to": "https://www.lookroot.cn/"
             },
             {
-              "label": "潜心专研的小张同学",
-              "to": "https://zhangqiang.vercel.app/"
+              "label": "峰华前端工程师",
+              "to": "https://zxuqian.cn"
             }
           ]
         }
       ],
-      "copyright": "<p>Copyright © 2022 文涛 (张旭乾) Built with Docusaurus.</p><p><a href=\"http://beian.miit.gov.cn/\" >冀ICP备14007097号-3</a></p><a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"/img/creative-commons-license-icon.png\" /></a><br />本站所有内容遵循 <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-nc/4.0/deed.zh-Hans\" >CC BY-NC 4.0 协议</a>，转载须注明署名和出处，且不可用于商业用途。若与其他同步平台协议冲突，以本网站为准。"
+      "copyright": "<p>Copyright © 2021 潜心专研的小张同学 (张强) Built with Docusaurus and FengHua.</p><a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"/img/creative-commons-license-icon.png\" /></a><br />本站所有内容遵循 <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-nc/4.0/deed.zh-Hans\" style=\"color: hsl(210deg, 100%, 80%)\">CC BY-NC 4.0 协议</a>，转载须注明署名和出处，且不可用于商业用途。若与其他同步平台协议冲突，以本网站为准。"
     },
     "prism": {
       "theme": {
@@ -441,9 +383,8 @@ export default {
       {
         "docs": {
           "sidebarPath": "/Users/wwwwtao/Desktop/学习/wwwwtaoBlog/sidebars.js",
-          "editUrl": "https://github.com/zxuqian/zxuqian.cn/tree/master",
+          "editUrl": "https://github.com/JACK-ZHANG-coming/my-now-blog/blob/main",
           "remarkPlugins": [
-            null,
             null
           ],
           "rehypePlugins": [
@@ -463,8 +404,8 @@ export default {
           ],
           "feedOptions": {
             "type": "all",
-            "title": "文涛前端工程师",
-            "copyright": "Copyright © 2022 文涛 (张旭乾) Built with Docusaurus.<p><a href=\"http://beian.miit.gov.cn/\" class=\"footer_lin\">冀ICP备14007097号-3</a></p>"
+            "title": "wwwwtao是个前端",
+            "copyright": "Copyright © 2022 wwwwtao (文涛) Built with Docusaurus.<p><a href=\"http://beian.miit.gov.cn/\">冀ICP备14007097号-3</a></p>"
           }
         },
         "theme": {
@@ -482,18 +423,17 @@ export default {
     "/Users/wwwwtao/Desktop/学习/wwwwtaoBlog/src/plugin/plugin-baidu-push",
     "/Users/wwwwtao/Desktop/学习/wwwwtaoBlog/src/plugin/plugin-google-adsense",
     "/Users/wwwwtao/Desktop/学习/wwwwtaoBlog/src/plugin/plugin-onesignal-push",
-    "/Users/wwwwtao/Desktop/学习/wwwwtaoBlog/src/plugin/plugin-latest-docs",
     "docusaurus2-dotenv",
     [
       "@docusaurus/plugin-content-blog",
       {
-        "id": "secret-garden",
+        "id": "lifestyle-blog",
         "routeBasePath": "lifestyle",
         "path": "./lifestyle",
         "feedOptions": {
           "type": "all",
-          "title": "文涛前端工程师",
-          "copyright": "Copyright © 2022 文涛 (张旭乾) Built with Docusaurus.<p><a href=\"http://beian.miit.gov.cn/\" >冀ICP备14007097号-3</a></p>"
+          "title": "wwwwtao是个前端",
+          "copyright": "Copyright © 2022 wwwwtao (文涛) Built with Docusaurus.<p><a href=\"http://beian.miit.gov.cn/\">冀ICP备14007097号-3</a></p>"
         }
       }
     ]
@@ -521,7 +461,16 @@ export default {
     "locales": [
       "zh-CN"
     ],
-    "localeConfigs": {}
+    "localeConfigs": {
+      "zh-CN": {
+        "label": "中文",
+        "direction": "ltr"
+      },
+      "en": {
+        "label": "English",
+        "direction": "ltr"
+      }
+    }
   },
   "baseUrlIssueBanner": true,
   "onBrokenLinks": "throw",

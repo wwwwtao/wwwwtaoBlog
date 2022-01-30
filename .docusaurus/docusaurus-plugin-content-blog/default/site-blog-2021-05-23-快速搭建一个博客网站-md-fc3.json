@@ -1,0 +1,32 @@
+{
+  "permalink": "/使用react+docusaurus快速搭建一个博客网站",
+  "source": "@site/blog/2021-05-23-快速搭建一个博客网站.md",
+  "title": "使用react+docusaurus快速搭建一个博客网站",
+  "description": "请输入描述",
+  "date": "2021-05-23T00:00:00.000Z",
+  "formattedDate": "2021年5月23日",
+  "tags": [
+    {
+      "label": "前端",
+      "permalink": "/tags/前端"
+    },
+    {
+      "label": "React",
+      "permalink": "/tags/react"
+    },
+    {
+      "label": "博客网站",
+      "permalink": "/tags/博客网站"
+    }
+  ],
+  "readingTime": 0.34,
+  "truncated": true,
+  "prevItem": {
+    "title": "一个前端开发从零开始配置前端开发环境纪实",
+    "permalink": "/一个前端开发从零开始配置前端开发环境纪实"
+  },
+  "nextItem": {
+    "title": "js map函数的用法",
+    "permalink": "/map-use"
+  }
+}
