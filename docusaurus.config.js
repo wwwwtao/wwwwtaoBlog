@@ -4,7 +4,7 @@ const katex = require("rehype-katex");
 const adsense = require("./src/plugin/remark-adsense");
 
 module.exports = {
-  title: "峰华前端工程师",
+  title: "文涛前端工程师",
   // tagline:
   //   "帮助你提升前端开发技能，分享 HTML、CSS、JavaScript、React 和 Vue 等开发实战经验",
   titleDelimiter: "-",
@@ -23,9 +23,9 @@ module.exports = {
     },
     hideableSidebar: true,
     navbar: {
-      title: "峰华",
+      title: "文涛",
       logo: {
-        alt: "峰华",
+        alt: "文涛",
         src: "img/logo.webp",
         srcDark: "img/logo.webp",
       },
@@ -173,7 +173,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `<p>Copyright © ${new Date().getFullYear()} 峰华 (张旭乾) Built with Docusaurus.</p><p><a href="http://beian.miit.gov.cn/" >冀ICP备14007097号-3</a></p><a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="/img/creative-commons-license-icon.png" /></a><br />本站所有内容遵循 <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/deed.zh-Hans" >CC BY-NC 4.0 协议</a>，转载须注明署名和出处，且不可用于商业用途。若与其他同步平台协议冲突，以本网站为准。`,
+      copyright: `<p>Copyright © ${new Date().getFullYear()} 文涛 (张旭乾) Built with Docusaurus.</p><p><a href="http://beian.miit.gov.cn/" >冀ICP备14007097号-3</a></p><a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="/img/creative-commons-license-icon.png" /></a><br />本站所有内容遵循 <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/deed.zh-Hans" >CC BY-NC 4.0 协议</a>，转载须注明署名和出处，且不可用于商业用途。若与其他同步平台协议冲突，以本网站为准。`,
     },
     prism: {
       theme: require("prism-react-renderer/themes/github"),
@@ -209,8 +209,8 @@ module.exports = {
           rehypePlugins: [katex],
           feedOptions: {
             type: "all",
-            title: "峰华前端工程师",
-            copyright: `Copyright © ${new Date().getFullYear()} 峰华 (张旭乾) Built with Docusaurus.<p><a href="http://beian.miit.gov.cn/" class="footer_lin">冀ICP备14007097号-3</a></p>`,
+            title: "文涛前端工程师",
+            copyright: `Copyright © ${new Date().getFullYear()} 文涛 (张旭乾) Built with Docusaurus.<p><a href="http://beian.miit.gov.cn/" class="footer_lin">冀ICP备14007097号-3</a></p>`,
           },
         },
         theme: {
@@ -240,8 +240,8 @@ module.exports = {
         path: "./lifestyle",
         feedOptions: {
           type: "all",
-          title: "峰华前端工程师",
-          copyright: `Copyright © ${new Date().getFullYear()} 峰华 (张旭乾) Built with Docusaurus.<p><a href="http://beian.miit.gov.cn/" >冀ICP备14007097号-3</a></p>`,
+          title: "文涛前端工程师",
+          copyright: `Copyright © ${new Date().getFullYear()} 文涛 (张旭乾) Built with Docusaurus.<p><a href="http://beian.miit.gov.cn/" >冀ICP备14007097号-3</a></p>`,
         },
       },
     ],

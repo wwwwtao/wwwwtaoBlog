@@ -48,7 +48,7 @@ function Hero() {
         <animated.div style={animatedTexts[0]} className={styles.hero_text}>
           <Translate description="hero greet">Hello! 我是</Translate>
           <span className={styles.intro__name}>
-            <Translate description="my name">峰华</Translate>
+            <Translate description="my name">文涛</Translate>
           </span>
         </animated.div>
         <animated.p style={animatedTexts[1]}>

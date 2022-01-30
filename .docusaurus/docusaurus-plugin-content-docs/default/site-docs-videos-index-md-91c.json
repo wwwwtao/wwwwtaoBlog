@@ -3,7 +3,7 @@
   "id": "videos/videos-intro",
   "isDocsHomePage": false,
   "title": "技术视频栏目简介",
-  "description": "欢迎访问峰华前端工程师博客！这个页面是我发布的视频合集，包括嵌入的 B 站视频和文本，方便大家引用视频中的代码和链接等。",
+  "description": "欢迎访问文涛前端工程师博客！这个页面是我发布的视频合集，包括嵌入的 B 站视频和文本，方便大家引用视频中的代码和链接等。",
   "source": "@site/docs/videos/index.md",
   "sourceDirName": "videos",
   "slug": "/videos",
@@ -16,7 +16,7 @@
     "id": "videos-intro",
     "title": "技术视频栏目简介",
     "slug": "/videos",
-    "description": "欢迎访问峰华前端工程师博客！这个页面是我发布的视频合集，包括嵌入的 B 站视频和文本，方便大家引用视频中的代码和链接等。",
+    "description": "欢迎访问文涛前端工程师博客！这个页面是我发布的视频合集，包括嵌入的 B 站视频和文本，方便大家引用视频中的代码和链接等。",
     "keywords": [
       "JavaScript",
       "frontend",

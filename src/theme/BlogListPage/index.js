@@ -42,7 +42,7 @@ function BlogListPage(props) {
   let description = `html, css, javascript, react, vue 前端教程，以及 B站视频教程合集和配套文本、系统教程、编程博客和前端资源导航。致力于帮助你以最直观、最快速的方式学会前端开发。`;
   if (metadata.permalink === "/lifestyle") {
     title = "随笔";
-    suffix = "- 峰华前端工程师";
+    suffix = "- 文涛前端工程师";
     description = "一个前端 UP 主的生活方式、思想感悟、学习经验等";
   }
 

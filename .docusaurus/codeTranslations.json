@@ -1,6 +1,6 @@
 {
   "Hello! 我是": "Hello! 我是",
-  "峰华": "峰华",
+  "文涛": "文涛",
   "homepage.qqgroup1": "QQ 1 群：644722908",
   "homepage.qqgroup2": "QQ 2 群：1004912565",
   "homepage.follow.link.href": "https://space.bilibili.com/302954484?from=search&seid=1788147379248960737",
@@ -17,7 +17,7 @@
   "blogtagpage.seeall.label": "查看所有标签（分类）",
   "theme.NotFound.title": "哎呀，页面失踪了~",
   "theme.NotFound.p1": "找不到你要访问的页面，要不点点别处看看？",
-  "theme.NotFound.p2": "或者可能是个 Bug，可以在 Bilibili@峰华前端工程师、QQ 群里私信告知我~!",
+  "theme.NotFound.p2": "或者可能是个 Bug，可以在 Bilibili@文涛前端工程师、QQ 群里私信告知我~!",
   "theme.AnnouncementBar.closeButtonAriaLabel": "关闭",
   "theme.blog.paginator.navAriaLabel": "Blog list page navigation",
   "theme.blog.paginator.newerEntries": "上一页",

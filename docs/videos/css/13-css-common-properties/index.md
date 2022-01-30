@@ -130,4 +130,4 @@ font-family: "webfont";
 
 更改无序列表的样式，可以设置 `list-style`  属性，可以设置为 `square`  方形，也可以使用 url() 函数加载自定义的图片。
 
-好了，这些就是 CSS 常用的样式属性，现在你大体知道有哪些了，在看到设计稿的时候，应该就知道某个样式具体该怎么实现了。接下来可以在 [w3schools](https://www.w3schools.com/) 或 [MDN](https://developer.mozilla.org/en-US/) 上查看他们更详细用法，实现更复杂的样式。如果感觉视频有帮助，请三连并关注，我是峰华，感谢观看！
+好了，这些就是 CSS 常用的样式属性，现在你大体知道有哪些了，在看到设计稿的时候，应该就知道某个样式具体该怎么实现了。接下来可以在 [w3schools](https://www.w3schools.com/) 或 [MDN](https://developer.mozilla.org/en-US/) 上查看他们更详细用法，实现更复杂的样式。如果感觉视频有帮助，请三连并关注，我是文涛，感谢观看！

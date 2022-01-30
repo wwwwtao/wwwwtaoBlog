@@ -1,7 +1,7 @@
 ---
 slug: harmonyos-js-todo
 title: 鸿蒙 OS：使用 JavaScript 开发 Todo App UI 界面
-author: 峰华
+author: 文涛
 author_title: 前端工程师 / B站UP主
 author_url: https://github.com/zxuqian
 author_image_url: https://tvax3.sinaimg.cn/crop.0.0.1080.1080.180/b2745d44ly8g8s4muqeggj20u00u0n0k.jpg?KID=imgbed,tva&Expires=1582389585&ssig=EvXmyu%2FXsX
@@ -314,7 +314,7 @@ data: {
 - 鸿蒙中的 hml 、css ，js 的语法、用法和一些要注意的坑。
 - 成功运行 Todo TV 项目。
 
-如果觉得教程有帮助，请点赞并关注，我是峰华，感谢！
+如果觉得教程有帮助，请点赞并关注，我是文涛，感谢！
 
 扫码关注公众号：
 

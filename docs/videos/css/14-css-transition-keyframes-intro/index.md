@@ -91,4 +91,4 @@ animation: rotate 2s ease-in-out 0s infinite;
 
 它就能够有动画效果了。
 
-好了，这个就是实现 CSS 动画的两种方式，一个是 transition 另一个是 @keyframes，你学会了吗？如果觉得视频有帮助，请点赞并关注，我是峰华，感谢观看！
+好了，这个就是实现 CSS 动画的两种方式，一个是 transition 另一个是 @keyframes，你学会了吗？如果觉得视频有帮助，请点赞并关注，我是文涛，感谢观看！

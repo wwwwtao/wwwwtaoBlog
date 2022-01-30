@@ -1,6 +1,6 @@
 # 个人博客
 
-本博客基于 [Docusaurus 2](https://v2.docusaurus.io/) JAMStack 静态网站生成器实现，作为 Bilibili（峰华前端工程师） 视频的文本版载体呈现。不定时更新前端开发相关博客，后续考虑增加全栈开发内容。
+本博客基于 [Docusaurus 2](https://v2.docusaurus.io/) JAMStack 静态网站生成器实现，作为 Bilibili（文涛前端工程师） 视频的文本版载体呈现。不定时更新前端开发相关博客，后续考虑增加全栈开发内容。
 
 本博客的代码如无特殊说明，可以自由使用，版权信息详见[关于版权](#关于版权)部分。接下来简单介绍一下本博客的开发和部署方式，关于 Docusaurus 的使用方法请参考官方网站 [Docusaurus 2](https://v2.docusaurus.io/)。
 

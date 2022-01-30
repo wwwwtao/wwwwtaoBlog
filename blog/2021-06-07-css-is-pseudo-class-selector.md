@@ -1,7 +1,7 @@
 ---
 slug: css-is-pseudo-class-selector
 title: CSS :is() 伪类选择器使用指南
-author: 峰华
+author: 文涛
 author_title: 前端工程师 / B站UP主
 author_url: https://github.com/zxuqian
 author_image_url: https://tvax3.sinaimg.cn/crop.0.0.1080.1080.180/b2745d44ly8g8s4muqeggj20u00u0n0k.jpg?KID=imgbed,tva&Expires=1582389585&ssig=EvXmyu%2FXsX

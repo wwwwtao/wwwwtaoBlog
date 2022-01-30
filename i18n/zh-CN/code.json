@@ -3,8 +3,8 @@
     "message": "Hello! 我是",
     "description": "hero greet"
   },
-  "峰华": {
-    "message": "峰华",
+  "文涛": {
+    "message": "文涛",
     "description": "my name"
   },
   "homepage.qqgroup1": {
@@ -72,7 +72,7 @@
     "description": "The first paragraph of the 404 page"
   },
   "theme.NotFound.p2": {
-    "message": "或者可能是个 Bug，可以在 Bilibili@峰华前端工程师、QQ 群里私信告知我~!",
+    "message": "或者可能是个 Bug，可以在 Bilibili@文涛前端工程师、QQ 群里私信告知我~!",
     "description": "The 2nd paragraph of the 404 page"
   },
   "theme.AnnouncementBar.closeButtonAriaLabel": {

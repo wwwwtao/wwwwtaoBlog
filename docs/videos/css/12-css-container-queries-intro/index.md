@@ -216,6 +216,6 @@ img {
 
 ## 总结
 
-CSS container queries 还是一个比较新的特性，目测未来会给响应式设计带来非常大的影响，现在先学起来，以后在用到的时候，就不会手足无措了。现在要体验 container queries，如果是 chrome 浏览器需要通过 chrome://flags 来开启支持，之后再设置相应的 css 属性，给容器设置 contain 属性，然后就可以通过 @container 来查询容器的尺寸了。你学会了吗？如果有帮助三连，想学更多有用的前端开发知识，请关注峰华前端工程师，感谢观看！
+CSS container queries 还是一个比较新的特性，目测未来会给响应式设计带来非常大的影响，现在先学起来，以后在用到的时候，就不会手足无措了。现在要体验 container queries，如果是 chrome 浏览器需要通过 chrome://flags 来开启支持，之后再设置相应的 css 属性，给容器设置 contain 属性，然后就可以通过 @container 来查询容器的尺寸了。你学会了吗？如果有帮助三连，想学更多有用的前端开发知识，请关注文涛前端工程师，感谢观看！
 
 import Codepen from "@site/src/components/Codepen";
