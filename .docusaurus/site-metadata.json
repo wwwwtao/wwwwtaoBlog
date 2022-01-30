@@ -27,11 +27,6 @@
       "name": "@docusaurus/theme-classic",
       "version": "2.0.0-alpha.75"
     },
-    "docusaurus-theme-search-algolia": {
-      "type": "package",
-      "name": "@docusaurus/theme-search-algolia",
-      "version": "2.0.0-alpha.75"
-    },
     "docusaurus-baidu-analytics-plugin": {
       "type": "project"
     },

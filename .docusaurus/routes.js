@@ -103,11 +103,6 @@ export default [
   exact: true,
 },
 {
-  path: '/search',
-  component: ComponentCreator('/search','10b'),
-  exact: true,
-},
-{
   path: '/tags',
   component: ComponentCreator('/tags','8ac'),
   exact: true,

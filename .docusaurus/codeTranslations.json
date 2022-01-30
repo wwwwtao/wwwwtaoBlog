@@ -63,9 +63,9 @@
   "theme.SearchPage.fetchingNewResults": "搜索中...",
   "theme.SearchBar.label": "搜索",
   "hompage.hero.text.bilibili": "B站视频配套文本、",
-  "homepage.hero.text": "在这里，有{blogs}以及我的想法和生活点滴。",
+  "homepage.hero.text": "在这里，有{blogs}以及UP主的想法和生活点滴。授人以鱼不如授人以渔，分享个人所学所见，在你学习前端开发的路上助你一臂之力！",
   "hompage.hero.text.course": "系统课程、",
-  "hompage.hero.text.blog": "技术博客",
+  "hompage.hero.text.blog": "技术博客、",
   "hompage.hero.text.link": "前端资源导航、",
   "hompage.hero.text.idea": "想法和生活点滴"
 }

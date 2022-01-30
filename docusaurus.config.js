@@ -58,12 +58,12 @@ module.exports = {
         // },
       ],
     },
-    algolia: {
-      apiKey: "fabfb0e9997e101154ed85d64b7b6a3c",
-      indexName: "ZXUQIANCN",
-      appId: "LIJMO3C9C4",
-      contextualSearch: true,
-    },
+    // algolia: {
+    //   apiKey: "fabfb0e9997e101154ed85d64b7b6a3c",
+    //   indexName: "ZXUQIANCN",
+    //   appId: "LIJMO3C9C4",
+    //   contextualSearch: true,
+    // },
     footer: {
       style: "dark",
       links: [{
