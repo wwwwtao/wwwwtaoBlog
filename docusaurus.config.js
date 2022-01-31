@@ -9,7 +9,7 @@ module.exports = {
   titleDelimiter: "-",
   url: "https://zhangqiang.vercel.app",
   baseUrl: "/",
-  favicon: "https://avatars.githubusercontent.com/u/44993003?s=400&u=02570a73330dd7eeae310b302962c034b2833988&v=4", // 网站图标
+  favicon: "https://avatars.githubusercontent.com/u/50544585?s=400&u=305dedd77ef8d2520aa5922c294ed999d6063067&v=4", // 网站图标
   organizationName: "zhangqiang", // Usually your GitHub org/user name.
   projectName: "zhangqiang.vercel.app", // Usually your repo name.
   themeConfig: {
@@ -24,8 +24,8 @@ module.exports = {
       title: "wwwwtao是个前端",
       logo: {
         alt: "wwwwtao是个前端",
-        src: "https://avatars.githubusercontent.com/u/44993003?s=400&u=02570a73330dd7eeae310b302962c034b2833988&v=4",
-        srcDark: "https://avatars.githubusercontent.com/u/44993003?s=400&u=02570a73330dd7eeae310b302962c034b2833988&v=4",
+        src: "https://avatars.githubusercontent.com/u/50544585?s=400&u=305dedd77ef8d2520aa5922c294ed999d6063067&v=4",
+        srcDark: "https://avatars.githubusercontent.com/u/50544585?s=400&u=305dedd77ef8d2520aa5922c294ed999d6063067&v=4",
       },
       items: [{
           type: "localeDropdown",

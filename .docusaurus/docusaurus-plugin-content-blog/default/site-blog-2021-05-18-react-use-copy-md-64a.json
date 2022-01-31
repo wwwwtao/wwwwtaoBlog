@@ -22,6 +22,10 @@
   "readingTime": 0.27,
   "truncated": false,
   "prevItem": {
+    "title": "使用react+docusaurus快速搭建一个博客网站",
+    "permalink": "/使用react+docusaurus快速搭建一个博客网站"
+  },
+  "nextItem": {
     "title": "js map函数的用法",
     "permalink": "/map-use"
   }

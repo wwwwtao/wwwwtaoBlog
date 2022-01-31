@@ -3,17 +3,17 @@ export default {
   "titleDelimiter": "-",
   "url": "https://zhangqiang.vercel.app",
   "baseUrl": "/",
-  "favicon": "https://avatars.githubusercontent.com/u/44993003?s=400&u=02570a73330dd7eeae310b302962c034b2833988&v=4",
+  "favicon": "https://avatars.githubusercontent.com/u/50544585?s=400&u=305dedd77ef8d2520aa5922c294ed999d6063067&v=4",
   "organizationName": "zhangqiang",
   "projectName": "zhangqiang.vercel.app",
   "themeConfig": {
     "hideableSidebar": true,
     "navbar": {
-      "title": "潜心专研的小张同学",
+      "title": "wwwwtao",
       "logo": {
         "alt": "wwwwtao是个前端",
-        "src": "https://avatars.githubusercontent.com/u/44993003?s=400&u=02570a73330dd7eeae310b302962c034b2833988&v=4",
-        "srcDark": "https://avatars.githubusercontent.com/u/44993003?s=400&u=02570a73330dd7eeae310b302962c034b2833988&v=4"
+        "src": "https://avatars.githubusercontent.com/u/50544585?s=400&u=305dedd77ef8d2520aa5922c294ed999d6063067&v=4",
+        "srcDark": "https://avatars.githubusercontent.com/u/50544585?s=400&u=305dedd77ef8d2520aa5922c294ed999d6063067&v=4"
       },
       "items": [
         {
@@ -81,7 +81,7 @@ export default {
           ]
         }
       ],
-      "copyright": "<p>Copyright © 2021 潜心专研的小张同学 (张强) Built with Docusaurus and FengHua.</p><a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"/img/creative-commons-license-icon.png\" /></a><br />本站所有内容遵循 <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-nc/4.0/deed.zh-Hans\" style=\"color: hsl(210deg, 100%, 80%)\">CC BY-NC 4.0 协议</a>，转载须注明署名和出处，且不可用于商业用途。若与其他同步平台协议冲突，以本网站为准。"
+      "copyright": "<p>Copyright © 2021 wwwwtao (文涛) Built with Docusaurus and FengHua.</p><a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"/img/creative-commons-license-icon.png\" /></a><br />本站所有内容遵循 <a rel=\"license\" href=\"https://creativecommons.org/licenses/by-nc/4.0/deed.zh-Hans\" style=\"color: hsl(210deg, 100%, 80%)\">CC BY-NC 4.0 协议</a>，转载须注明署名和出处，且不可用于商业用途。若与其他同步平台协议冲突，以本网站为准。"
     },
     "prism": {
       "theme": {

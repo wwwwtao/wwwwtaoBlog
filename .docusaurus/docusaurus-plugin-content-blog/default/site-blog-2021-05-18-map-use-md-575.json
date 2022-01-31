@@ -18,10 +18,6 @@
   "readingTime": 0.145,
   "truncated": false,
   "prevItem": {
-    "title": "使用react+docusaurus快速搭建一个博客网站",
-    "permalink": "/使用react+docusaurus快速搭建一个博客网站"
-  },
-  "nextItem": {
     "title": "vscode+react环境部署，运行第一个react框架",
     "permalink": "/react-use"
   }

@@ -1,10 +1,10 @@
 ---
 slug: 一个初级前端结合css、div谈一谈屏幕尺寸、分辨率、缩放概念
 title: 一个初级前端结合css、div谈一谈屏幕尺寸、分辨率、缩放概念
-author: 潜心专研的小张同学
+author: wwwwtao
 author_title: 前端工程师 / B站UP主
 author_url: https://github.com/JACK-ZHANG-coming
-author_image_url: https://avatars.githubusercontent.com/u/44993003?s=400&u=02570a73330dd7eeae310b302962c034b2833988&v=4
+author_image_url: https://avatars.githubusercontent.com/u/50544585?s=400&u=305dedd77ef8d2520aa5922c294ed999d6063067&v=4
 description: 自适应布局的前缀基础。
 tags: [前端, css]
 ---

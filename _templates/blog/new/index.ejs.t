@@ -5,10 +5,10 @@ to: blog/<%= name %>.md
 ---
 slug: <%= name %>
 title: <%= name %>
-author: 潜心专研的小张同学
+author: wwwwtao
 author_title: 前端工程师
-author_url: https://github.com/JACK-ZHANG-coming
-author_image_url: `https://avatars.githubusercontent.com/u/44993003?s=400&u=02570a73330dd7eeae310b302962c034b2833988&v=4`
+author_url: https://github.com/wwwwtao
+author_image_url: `https://avatars.githubusercontent.com/u/50544585?s=400&u=305dedd77ef8d2520aa5922c294ed999d6063067&v=4`
 description: 请输入描述
 tags: [前端, Vue]
 # activityId: 相关动态 ID

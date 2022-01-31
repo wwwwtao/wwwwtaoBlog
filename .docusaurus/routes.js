@@ -4,7 +4,7 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
 {
   path: '/',
-  component: ComponentCreator('/','a0b'),
+  component: ComponentCreator('/','c62'),
   exact: true,
 },
 {
@@ -119,7 +119,7 @@ export default [
 },
 {
   path: '/tags/前端',
-  component: ComponentCreator('/tags/前端','b6a'),
+  component: ComponentCreator('/tags/前端','daa'),
   exact: true,
 },
 {
@@ -139,7 +139,7 @@ export default [
 },
 {
   path: '/tags/js',
-  component: ComponentCreator('/tags/js','2a8'),
+  component: ComponentCreator('/tags/js','40b'),
   exact: true,
 },
 {
